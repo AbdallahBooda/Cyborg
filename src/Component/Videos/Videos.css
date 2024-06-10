@@ -1,0 +1,23 @@
+
+.feature-banner .thumb {
+    /* position: relative; */
+    max-height: 305px !important;
+    /* overflow: hidden; */
+    border-radius: 23px;;
+  }
+  
+  .feature-banner .thumb a {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-23px, -23px);
+    width: 46px;
+    height: 46px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 46px;
+    color: #ec6090;
+  }
+  
